@@ -1,6 +1,6 @@
-# UNDETERMINED
+# A graph-based code representation method to improve code readability classification
 
-the results are run on a server with CPU 2.8 GHz Intel Core i7, 16GB RAM.
+The results are run on a server with CPU 2.8 GHz Intel Core i7, 16GB RAM.
 
 ## Contents
 
